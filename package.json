@@ -1,0 +1,19 @@
+{
+  "name": "sec_rgr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanPetrov7/SEC_RGR.git"
+  },
+  "author": "YanPetrov7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanPetrov7/SEC_RGR/issues"
+  },
+  "homepage": "https://github.com/YanPetrov7/SEC_RGR#readme",
+  "description": ""
+}
