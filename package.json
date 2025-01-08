@@ -15,5 +15,9 @@
     "url": "https://github.com/YanPetrov7/SEC_RGR/issues"
   },
   "homepage": "https://github.com/YanPetrov7/SEC_RGR#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "net": "^1.0.2"
+  }
 }
